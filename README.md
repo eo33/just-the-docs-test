@@ -1,5 +1,8 @@
-# just-the-docs-template
+# README
 
+Visit this site at https://eo33.github.io/just-the-docs-test/
+
+## Important note
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
