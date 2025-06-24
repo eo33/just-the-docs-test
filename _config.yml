@@ -36,16 +36,3 @@ callouts:
 mermaid:
   version: "11.7.0"
 
-## Plugins
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Site metadata (used by jekyll-seo-tag)
-title: Sample docs
-description: A short summary of what your site or documentation is about.
-lang: en
-author:
-  name: eo33
-  email: edorlando33@gmail.com
