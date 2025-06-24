@@ -6,6 +6,9 @@ url: https://eo33.github.io/just-the-docs-test
 
 aux_links: 
   Template Repository: https://eo33.github.io/just-the-docs-test
+  Homepage: https://eo33.github.io/
+
+search_enabled: true
 
 sass:
   quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
@@ -28,3 +31,8 @@ callouts:
   important:
     title: important
     color: blue
+
+## Mermaid diagrams
+mermaid:
+  version: "11.7.0"
+
